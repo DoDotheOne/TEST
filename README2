@@ -1,0 +1,4 @@
+echo "# Proiect Test" > README2.md
+git add README.md
+git commit -m "Add README 2"
+git push origin main
